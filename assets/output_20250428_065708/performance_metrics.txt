@@ -1,0 +1,5 @@
+Total frames: 870
+Total processing time: 158.70 seconds
+Average FPS: 5.48
+Min FPS: 0.58
+Max FPS: 7.32

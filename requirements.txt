@@ -1,0 +1,11 @@
+# requirements.txt
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.5.4
+numpy>=1.21.0
+ultralytics>=8.0.0
+matplotlib>=3.5.0
+lap>=0.4.0
+Cython>=0.29.30
+scipy>=1.7.0
+loguru>=0.5.3
