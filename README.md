@@ -42,4 +42,5 @@ flowchart LR
     C --> D[Scene State Management]
     D --> E[Change Detection (Missing/New)]
     E --> F[Visualization & Output]
+```
 
