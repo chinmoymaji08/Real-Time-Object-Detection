@@ -35,9 +35,11 @@ The pipeline consists of four main modules:
 
 ## 🔥 Object Detection and Tracking Flow
 
+```mermaid
 flowchart LR
     A[Video Frame] --> B[YOLOv8n Object Detection]
     B --> C[ByteTrack Tracking]
     C --> D[Scene State Management]
     D --> E[Change Detection (Missing/New)]
     E --> F[Visualization & Output]
+
