@@ -41,5 +41,6 @@ flowchart LR
     B --> C[ByteTrack Tracking]
     C --> D[Scene State Management]
     D --> E[Change Detection (Missing/New)]
-    E --> F[Visualization & Output]```
+    E --> F[Visualization & Output]
+```
 
